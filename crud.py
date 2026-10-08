@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="App Name", layout="wide")
+st.set_page_config(page_title="IT Help Desk", layout="wide")
 
 # Streamlit supports Google's Material Symbols. 
 # You can browse them at fonts.google.com/icons.
